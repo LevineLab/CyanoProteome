@@ -21,7 +21,7 @@ Julia installation guidelines can be found here (https://docs.julialang.org/en/v
 
 Code developed by Daniela Osorio Rodriguez and Suzana Goncalves Leles.
 
-**A fully annotated sample notebook is found in the file trichodesmium_temperature_limitedPO4**. This corresponds to the proteome-allocation optimization model for colonial *Trichodesmium* under a range of temperatures, with phosphorus supplied exclusively as inorganic phosphate (PO₄) and phycosphere-related phosphorus (PRP, here called DOP). All other notebooks in the repository are generated in a similar format.
+** A fully annotated sample notebook is found in the file trichodesmium_temperature_limitedPO4 **. This corresponds to the proteome-allocation optimization model for colonial *Trichodesmium* under a range of temperatures, with phosphorus supplied exclusively as inorganic phosphate (PO₄) and phycosphere-related phosphorus (PRP, here called DOP). All other notebooks in the repository are generated in a similar format.
 
 ## Repository Architecture
 
