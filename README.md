@@ -37,19 +37,23 @@ This folder includes all the source code used to generate the model validations 
 
 ### **`temperature`** 
 
-This folder includes the growth curves, allocations, and rates under a range of temperatures for the 4 phenotypes described above under replete or limited PO4 and access to phycosphere-related phosphorus (PRP).
+This folder includes the source code used to generate the growth curves, allocations, and rates under a range of temperatures for the 4 phenotypes described above under replete or limited PO4 and access to phycosphere-related phosphorus (PRP). Used to generate Fig. 4, Fig. S2, and Fig. S3. 
 
 ### **`light`** 
 
-This folder includes the growth curves, allocations, and rates under a range of light for colonial *Trichodesmium* and *Crocosphaera* under replete or limited PO4 and access to phycosphere-related phosphorus (PRP).
+This folder includes the source code used to generate the growth curves, allocations, and rates under a range of light for colonial *Trichodesmium* and *Crocosphaera* under replete or limited PO4 and access to phycosphere-related phosphorus (PRP). Used to generate Fig. s9.
 
 ### **`phosphorus`** 
 
-This folder includes the growth curves, allocations, and rates under a range of phosphorus or PRP for colonial *Trichodesmium*.
+This folder includes the source code used to generate the growth curves, allocations, and rates under a range of phosphorus or PRP for colonial *Trichodesmium*. Used to generate Fig. 5.
 
 ### **`temperature_subclades`** 
 
-This folder includes the growth curves, allocations, and rates under a range of temperatures for 4 clades of *Trichodesmium thiebautii* that vary in cell diameter, length, and colony morphology under environmental conditions (limited PO4 and access to phycosphere-related phosphorus (PRP)). We compared the outcomes at optimal temperatures of 27 °C and 29 °C.
+This folder includes the source code used to generate the growth curves, allocations, and rates under a range of temperatures for 4 clades of *Trichodesmium thiebautii* that vary in cell diameter, length, and colony morphology under environmental conditions (limited PO4 and access to phycosphere-related phosphorus (PRP)). We compared the outcomes at optimal temperatures of 27 °C and 29 °C. Used to generate Fig. 6, Fig. S6 and Fig. S8.
+
+### **`sensitivity_tests`** 
+
+This folder includes the source code used to generate the sensitivity tests under a range of temperature, phosphorus, and varying diffusion and establishing whether PO4 and PRP could use separate transporters. Used to generate Fig. S4 and Fig. S10.
 
 ---
 
