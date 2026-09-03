@@ -1,5 +1,7 @@
 # CyanoProteome
-Proteome allocation model for N2-fixing cyanobacteria. Modified from ProteomePhyto.
+Proteome allocation model for N2-fixing cyanobacteria. Modified from [ProteomePhyto](https://github.com/LevineLab/ProteomePhyto/).
+
+---
 
 ## The model
 
@@ -22,6 +24,8 @@ Julia installation guidelines can be found here (https://docs.julialang.org/en/v
 Code developed by Daniela Osorio Rodriguez and Suzana Goncalves Leles.
 
 **A fully annotated sample notebook is found in the file trichodesmium_temperature_limitedPO4**. This corresponds to the proteome-allocation optimization model for colonial *Trichodesmium* under a range of temperatures, with phosphorus supplied exclusively as inorganic phosphate (PO₄) and phycosphere-related phosphorus (PRP, here called DOP). All other notebooks in the repository are generated in a similar format.
+
+---
 
 ## Repository Architecture
 
@@ -46,3 +50,14 @@ This folder includes the growth curves, allocations, and rates under a range of 
 ### **`temperature_subclades`** 
 
 This folder includes the growth curves, allocations, and rates under a range of temperatures for 4 clades of *Trichodesmium thiebautii* that vary in cell diameter, length, and colony morphology under environmental conditions (limited PO4 and access to phycosphere-related phosphorus (PRP)). We compared the outcomes at optimal temperatures of 27 °C and 29 °C.
+
+---
+
+## Relevant References
+
+Leles, S. G., & Levine, N. M. (2023). Mechanistic constraints on the trade-off between photosynthesis and respiration in response to warming. Science Advances, 9(35), eadh8043.
+
+Leles, S.G., Breithaupt, L., Krinos, A., Alexander, H., Moeller, H.V., Flanjak, L., Laufkotter, C., Litchman, E., Aranguren-Gassis, M. & Levine, N. M. (2025). New niches for larger phytoplankton in a warmer, more resource-limited ocean. bioRxiv, 2025-06.
+
+Cleveland, C. S., Bhatnagar, A. M., Barnes, S. J., Zhao, Y., & Webb, E. A. (2026). Genomics and biogeography of novel Trichodesmium isolates from the Sargasso Sea. bioRxiv, 2026-07.
+
